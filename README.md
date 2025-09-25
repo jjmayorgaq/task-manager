@@ -94,7 +94,7 @@ It also includes **Formik + Yup** for form validation and **Vitest + React Testi
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/jjmayorgaq/task-manager.git
 cd task-manager
 
 npm install
